@@ -1,0 +1,30 @@
+body {
+  background-image: url("images/tile3.png");
+}
+
+.content {
+  margin: auto;
+  font-family: sans-serif;
+  margin: auto;
+  width: 80%;
+  min-width: 500px;
+}
+
+header {
+  background-color: #ff9b94;
+  padding: 5px 5px 5px 20px;
+}
+
+.info {
+  background-color: #424040;
+  color: #fafafa;
+  padding: 5px 5px 5px 20px;
+}
+
+img {
+  height: auto;
+  min-width: 500px;
+  width: 100%;
+  position: relative;
+  margin-bottom: -5px;
+}
